@@ -1,4 +1,4 @@
-#第一节  Spring Boot基本框架的搭建
+#第一节  Spring Boot基本框架的搭建<br>
 ##一、Intellij中Spring Boot基本框架的搭建
 ###1、在Intellij中选择Spring Initializr然后Next,填写Group、package、artifact,再Next选择支持的Web模块，然后再填写项目的文件名称即可。
 ####<font color="red">group一般和Java package一样表示</font>
