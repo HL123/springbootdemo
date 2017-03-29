@@ -19,7 +19,7 @@
             * AuthorController
 
 ### 3、（本章先做简单的介绍）直接在Application下面写Controller的方法。<br>
-```
+```Java
 @SpringBootApplication
 @Controller
 public class DemoApplication {
