@@ -36,7 +36,7 @@ public class DemoApplication {
 ```
 
 <font color="#dd0000">注意：Application.java中注解必须是@ResutController,@Controller是不可以的</font>
-'注意：Application.java中注解必须是@ResutController,@Controller是不可以的'
+ ' 注意：Application.java中注解必须是@ResutController,@Controller是不可以的 '
 
 ### 4、打开浏览器访问http://localhost:8080/就会返回“value”。<br>
 
