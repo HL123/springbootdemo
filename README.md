@@ -6,17 +6,18 @@
 #### <font color="red">Artifact 表示项目在项目组中的ID</font><br>
 #### <font color="red">version表示版本</font><br>
 ### 2、在新建的packe中，使Application.java位于根目录下面，否则会出现扫描不到Bean。例如：<br>
-```
-      --com
-      	  --example 
-		  	--Application.java（Spring Boot M主函数）
-		  	--domain(实体类的包)
-			  	--Author.java
-		  	--service(service层的包)
-			  	--AuthorService
-		  	--controller(controller层的包)
-		     	--AuthorController
-```
+
+
+* com
+    * example
+        * Application.java（Spring Boot M主函数）</br>
+        * domain(实体类的包)<br>
+            * Author.java<br>
+        * service(service层的包)
+            * AuthorService
+        * controller(controller层的包)
+            * AuthorController
+
 ### 3、（本章先做简单的介绍）直接在Application下面写Controller的方法。<br>
 ```
 @SpringBootApplication
