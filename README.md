@@ -39,7 +39,7 @@ public class DemoApplication {
 
 ### 4、打开浏览器访问http://localhost:8080/就会返回“value”。<br>
 
-`说明：系列学习Sproot Boot为参考网上文章自己学习过程，主要参考网站：
-http://blog.720ui.com/columns/springboot_all/
+`说明：系列学习Sproot Boot为参考网上文章自己学习过程，主要参考网站：<br/>
+[参考博客](http://blog.720ui.com/columns/springboot_all/)
 `
 
