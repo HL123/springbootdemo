@@ -41,5 +41,6 @@ public class DemoApplication {
 
 `说明：系列学习Sproot Boot为参考网上文章自己学习过程，主要参考网站：<br/>
 [参考博客](http://blog.720ui.com/columns/springboot_all/)
+[我的博客](http://blog.csdn.net/guodongxiaren)
 `
 
